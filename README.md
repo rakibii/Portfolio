@@ -1,7 +1,7 @@
 # Portfolio
 
 ### About me :wave:
-Hi, my name is Ashikur Jaman Rakib. Since the start of 2023, I have been dedicating myself to studying and practicing to become a QA engineer. I’m thrilled to have found an area where I can grow and succeed. Accessibility is a key focus for me, as I believe it's essential in creating a more inclusive digital world. Through this portfolio, I aim to share my QA knowledge and highlight the practical skills I’ve gained from courses, self-study, and work experience. Currently, I’m focused on advancing my skills in test automation, and I am determined to keep growing in this field.
+Hi, my name is Ashikur Jaman Rakib. Since the start of 2024, I have been dedicating myself to studying and practicing to become a QA engineer. I’m thrilled to have found an area where I can grow and succeed. Accessibility is a key focus for me, as I believe it's essential in creating a more inclusive digital world. Through this portfolio, I aim to share my QA knowledge and highlight the practical skills I’ve gained from courses, self-study, and work experience. Currently, I’m focused on advancing my skills in test automation, and I am determined to keep growing in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/ashikur-jaman-rakib/)
 
